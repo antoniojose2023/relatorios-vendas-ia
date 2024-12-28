@@ -1,8 +1,8 @@
 # Caracteristicas
 
-Este desafio de projeto consiste em fazr uma analise de dados totalmente automatizada com o uso de inteligência artificial, no caso foram trabalho com três tabelas, em que no final foram consolidado os dados para uma analise geral.  
+Este desafio de projeto consiste em fazer uma analise de dados totalmente automatizada com o uso de inteligência artificial, no caso foram trabalhadas três tabelas, em que no final foram consolidado os dados destas tabelas para uma analise geral.  
 
-##Ferramentas utilizadas
+## Ferramentas utilizadas
 
 - Excel
 - ChatGPT
