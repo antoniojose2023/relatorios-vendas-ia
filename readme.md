@@ -1,4 +1,4 @@
-#Caracteristicas
+# Caracteristicas
 
 Este desafio de projeto consiste em fazr uma analise de dados totalmente automatizada com o uso de inteligência artificial, no caso foram trabalho com três tabelas, em que no final foram consolidado os dados para uma analise geral.  
 
@@ -7,7 +7,7 @@ Este desafio de projeto consiste em fazr uma analise de dados totalmente automat
 - Excel
 - ChatGPT
 
-##prompts usados
+## prompts usados
 
 1 - Destaque os produtos mais vendido de cada site: me traga o nome do site, o produto e valor total do produto em formato de tabela.
 
@@ -19,7 +19,7 @@ Este desafio de projeto consiste em fazr uma analise de dados totalmente automat
 
 5 - Liste as faixa etárias e traga-me em ordem decrescente o total de produtos vendidos em cada faixa etária, em formato de tabela.
 
-##Resultados
+## Resultados
 
 Os dados foram carregados e mostram informações detalhadas sobre as vendas de produtos em três sites: AliExpress, Etsy e Shopee. Cada tabela contém colunas como SKU, produto vendido, data, quantidade, preço unitário, preço total, país de entrega e outras informações relevantes.
 
